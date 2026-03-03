@@ -5,6 +5,7 @@
 }
 
 canvas {
+  position: fixed;
   width: 100dvw;
   height: 100dvh;
 }
